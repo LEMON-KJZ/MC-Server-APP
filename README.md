@@ -18,9 +18,8 @@
 gradlew.bat :app:assembleDebug
 ```
 
-APK 输出：`app/build/outputs/apk/debug/app-debug.apk`。
 
-本项目已在 Windows 环境使用 Gradle 9.8.0 构建验证，输出的是带调试签名、可直接安装的 APK。正式发布到应用商店前，请使用自己的发布签名构建 release APK。
+本项目已在 Windows 环境使用 Gradle 9.8.0 构建验证。
 
 ## 服务器配置
 
